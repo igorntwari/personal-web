@@ -1,0 +1,127 @@
+body {
+  color:#40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'sacramento', cursive;
+}
+
+h1 {
+  color: #66BFBF;
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: 'sacramento', cursive;
+  line-height: 2;
+
+}
+
+h2 {
+  color: #66BFBF;
+  font-family: 'montserrat', sans-serif;
+  font-size:2.5rem;
+  font-weight: normal;
+  padding-bottom:10px;
+}
+
+h3 {
+  color:#11999E;
+  font-family: 'montserrat', sans-serif;
+}
+p{
+    line-height: 2;
+}
+.top-container {
+  background-color: #CDFCF6;
+  position: relative;
+  padding-top: 100px;
+}
+.intro{
+  width:30%;
+  margin: auto;
+}
+.middle-container{
+  margin:100px 0;
+}
+.dope-image{
+
+}
+
+.skill-row{
+  width:50%;
+  margin:100px auto 100px auto;
+  text-align: left;
+
+}
+.skill1-img{
+  float: left;
+  width:25%;
+  margin-right:30px;
+}
+.skill2-img{
+  float:right;
+  width:30%;
+  margin-left:30px;
+}
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 40px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+.footer-link{
+  color:#11999E;
+}
+hr{
+  border-style:none;
+    border-top-style:dotted;
+    border-color:grey;
+    border-width: 5px;
+    width:5%;
+}
+.btn{
+  background: #3498db;
+background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+background-image: -o-linear-gradient(top, #3498db, #2980b9);
+background-image: linear-gradient(to bottom, #3498db, #2980b9);
+-webkit-border-radius: 20;
+-moz-border-radius: 20;
+border-radius: 20px;
+font-family: 'montserrat', sans-serif;
+color: #ffffff;
+font-size: 19px;
+padding: 10px 20px 10px 20px;
+text-decoration: none;
+
+}
+
+.btn:hover {
+  background: #44bf1b;
+  text-decoration: none;
+}
+.copyright{
+  color:#EAF6F6;
+  font-size:0.75rem;
+  padding:20px 0;
+}
+.bottom-container{
+  margin: 50px auto 10px auto;
+  background-color:#66BFBF;
+  padding:50px 0 20px;
+
+}
+.footer-link{
+  color:black;
+    font-family: 'sacramento', cursive;
+    margin:10px 20px;
+    text-decoration:none;
+
+}
+.footer-link:hover{
+  color:white;
+}
